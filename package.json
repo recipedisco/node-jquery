@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "jsdom": "~0.5.7",
-    "xmlhttprequest": "~1.5.0"
+    "xmlhttprequest": "git://github.com/recipedisco/node-XMLHttpRequest.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
